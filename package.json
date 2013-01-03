@@ -1,0 +1,10 @@
+{
+  "name": "tomighty-web",
+  "description": "Tomighty Web Site",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ejs": "0.8.x",
+    "express": "3.x"
+  }
+}
