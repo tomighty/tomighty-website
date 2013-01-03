@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "node": "0.8.16",
-    "npm": "0.8.16",
+    "node": "0.8.x",
+    "npm": "1.1.x",
     "ejs": "0.8.x",
-    "express": "3.x"
+    "express": "3.0.x"
   }
 }
