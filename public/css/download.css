@@ -11,3 +11,9 @@
 .downloads .jar {
 	background: url(../img/jar.png) no-repeat center left;
 }
+.downloads .mac {
+	background: url(../img/mac.png) no-repeat center left;
+}
+.downloads .windows {
+	background: url(../img/windows.png) no-repeat center left;
+}
