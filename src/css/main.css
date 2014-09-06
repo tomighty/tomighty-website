@@ -1,0 +1,71 @@
+html {
+  font-family: 'Merriweather', sans-serif;
+  font-size: 22px;
+}
+
+body {
+  background-color: #f8f8f8;
+  color: #333;
+  line-height: 1.6em;
+}
+
+h2 {
+  margin-top: 1.5em;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #666;
+  text-shadow: 0 0 1em #ddd;
+}
+
+.wrap {
+  width: 34em;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+  margin: 2em 0;
+}
+
+header h1, header h2 {
+  margin: 0 0 .3em 0;
+}
+
+header h2 {
+  font-size: 1em;
+  font-weight: normal;
+}
+
+.downloads, .screenshots, .donation, .social {
+  text-align: center;
+}
+
+.downloads ul {
+  margin: 0;
+  padding: 0;
+}
+
+.downloads li {
+  display: inline-block;
+  width: 346px;
+}
+
+.downloads a img {
+  position: relative;
+  top: 4px;
+}
+
+.screenshots img {
+  box-shadow: 0 0 .25em #666;
+}
+
+footer {
+  font-size: .6em;
+  margin: 5em 0;
+  text-align: center;
+}
